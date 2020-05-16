@@ -1,6 +1,6 @@
 # FontPruner-python3
 
-#### This Project is based on [GameBuildingBlocks/FontPruner](https://github.com/GameBuildingBlocks/FontPruner).
+#### This Project is developed on [GameBuildingBlocks/FontPruner](https://github.com/GameBuildingBlocks/FontPruner).
 
 ### Changes:
 
